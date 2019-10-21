@@ -765,7 +765,13 @@
 		}
 
 		#footer address {
-		    font-size: 1.3em
+		    font-size: 1.3em;
+		    color: inherit;
+		}
+
+		#footer address a {
+		    color: inherit;
+		    text-decoration: none;
 		}
 
 /* Copyright */
